@@ -1,4 +1,4 @@
-<h3 align="left">School 42 projects:</h3>
+# School 42 projects
 <ul>
   <li>Libft <img src="https://badge42.vercel.app/api/v2/cl35y53oe019509l7wzmgfla8/project/2365641" width="80"/> </li>
    <p>Краткое описание</p>
