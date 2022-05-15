@@ -20,7 +20,7 @@
   <p>Краткое описание</p>
   <li>NetPractice <img src="https://badge42.vercel.app/api/v2/cl35y53oe019509l7wzmgfla8/project/2525120" width="80"/> </li>
   <p>Краткое описание</p>
-  <li>CPP Module <img src="https://badge42.vercel.app/api/v2/cl35y53oe019509l7wzmgfla8/project/2529287" width="80"/> </li>
+  <li>CPP Modules <img src="https://badge42.vercel.app/api/v2/cl35y53oe019509l7wzmgfla8/project/2529287" width="80"/> </li>
   <p>Краткое описание</p>
   <li>cub3d <img src="https://badge42.vercel.app/api/v2/cl35y53oe019509l7wzmgfla8/project/2549672" width="80"/> </li>
   <p>Краткое описание</p>
