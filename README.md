@@ -1,6 +1,6 @@
 # School 42 projects
 <ul>
-  <li>Libft <img src="https://badge42.vercel.app/api/v2/cl35y53oe019509l7wzmgfla8/project/2365641" width="80"/> </li>
+  <li><a href="https://github.com/ncallie/42Project-Libft">Libft</a><img src="https://badge42.vercel.app/api/v2/cl35y53oe019509l7wzmgfla8/project/2365641" width="80"/> </li>
    <p>Краткое описание</p>
   <li>ft_printf <img src="https://badge42.vercel.app/api/v2/cl35y53oe019509l7wzmgfla8/project/2379841" width="80"/> </li>
    <p>Краткое описание</p>
