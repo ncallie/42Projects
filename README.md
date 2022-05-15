@@ -32,6 +32,6 @@
   <p>Краткое описание</p>
   <li>ft_irc <img src="https://badge42.vercel.app/api/v2/cl35y53oe019509l7wzmgfla8/project/2578208" width="80"/> </li>
   <p>Краткое описание</p>
-  <li><a href="https://github.com/ncallie/42Project-Libft">Born2beroot</a>Piscine Java <img src="https://badge42.vercel.app/api/v2/cl35y53oe019509l7wzmgfla8/project/2562582" width="80"/> </li>
+  <li><a href="https://github.com/ncallie/42Project-Libft">Piscine Java</a><img src="https://badge42.vercel.app/api/v2/cl35y53oe019509l7wzmgfla8/project/2562582" width="80"/> </li>
   <p>Краткое описание</p>
 </ul>
