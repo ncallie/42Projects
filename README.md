@@ -4,9 +4,9 @@
    <p>Краткое описание</p>
   <li><a href="https://github.com/ncallie/42Project-Printf">ft_printf</a><img src="https://badge42.vercel.app/api/v2/cl35y53oe019509l7wzmgfla8/project/2379841" width="80"/> </li>
    <p>Краткое описание</p>
-  <li><a href="https://github.com/ncallie/42Project-Libft">Born2beroot</a><img src="https://badge42.vercel.app/api/v2/cl35y53oe019509l7wzmgfla8/project/2379839" width="80"/> </li>
+  <li><a href="https://github.com/ncallie/42Project-Born2beroot">Born2beroot</a><img src="https://badge42.vercel.app/api/v2/cl35y53oe019509l7wzmgfla8/project/2379839" width="80"/> </li>
   <p>Краткое описание</p>
-  <li><a href="https://github.com/ncallie/42Project-Born2beroot">get_next_line</a><img src="https://badge42.vercel.app/api/v2/cl35y53oe019509l7wzmgfla8/project/2379840" width="80"/> </li>
+  <li><a href="https://github.com/ncallie/42Project-GetNextLine">get_next_line</a><img src="https://badge42.vercel.app/api/v2/cl35y53oe019509l7wzmgfla8/project/2379840" width="80"/> </li>
   <p>Краткое описание</p>
   <li><a href="https://github.com/ncallie/42Project-PushSwap">push_swap</a><img src="https://badge42.vercel.app/api/v2/cl35y53oe019509l7wzmgfla8/project/2396227" width="80"/> </li>
   <p>Краткое описание</p>
